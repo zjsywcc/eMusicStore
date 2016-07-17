@@ -26,9 +26,8 @@
         <module name="eMusicStore" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="eMusicStore" target="1.7" />
+    <bytecodeTargetLevel target="1.8">
+      <module name="eMusicStore" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
-
